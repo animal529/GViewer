@@ -6,7 +6,7 @@ public class m_wind { // создание класса главного окна
     {
         //создание контейнера верхнего уровня, в котором будут размещаться
         //все компоненты
-        JFrame m_window = new JFrame("GViewer");
+        JFrame m_window = new JFrame("GViewer ver 0.1");
         //задаем размеры главного окна
         m_window.setSize(1024,768);
         //определяем стандартное действие при закрытии окна: EXIT_ON_CLOSE -
